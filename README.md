@@ -4,29 +4,29 @@
 This system is a web-based coach reservation system, which provides members with the function of booking fitness courses with coaches. Members can register as members of the system, choose a fitness program that suits them, and book a fitness class with the right instructor. The system provides functions for different user types, including managers, members and coaches.
 
 ## Technology stack
-- Back-end: Spring Boot, MyBatis Plus
-- Front-end: jQuery, AJAX
-- Database: MySQL
+Back-end: Spring Boot, MyBatis Plus
+Front-end: jQuery, AJAX
+Database: MySQL
 
 ## System functions
 ### 1. The manager
-- Maintain the system master file
-- Send marketing notices to members who are about to expire
-- View all appointments
-- Access statistical reports related to business
-- Raise/lower the rank of the trainer
+Maintain the system master file
+Send marketing notices to members who are about to expire
+View all appointments
+Access statistical reports related to business
+Raise/lower the rank of the trainer
 
 ### 2. Customers
-- Register as a new member
-- Log in to your account and make an appointment
-- View reservation history
-- View the status of the current appointment
-- Modify personal data
+Register as a new member
+Log in to your account and make an appointment
+View reservation history
+View the status of the current appointment
+Modify personal data
 
 ### 3. Coach
-- Login Account
-- View your appointment history
-- View the status of the current appointment
+Login Account
+View your appointment history
+View the status of the current appointment
 
 ## Coach rankings
 Coaches are ranked from three to five stars based on experience, and members match coaches at different levels depending on the program they purchase.
